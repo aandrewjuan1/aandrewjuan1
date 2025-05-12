@@ -51,8 +51,5 @@ Emilio Aguinaldo College – Cavite (Expected Graduation: 2026)
 
 ## 📬 **Contact**
 
-Feel free to reach out via email: andrew.juan.cvt@eac.edu.ph or via phone at +63 919 337 0209.
+Feel free to reach out via email: aandrewjuan2@gmail.com.
 
----
-
-🌟 Looking forward to contributing to open-source and collaborating on innovative projects!
