@@ -35,23 +35,6 @@ I'm a Computer Science undergraduate passionate about web development, clean cod
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aandrewjuan1&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-## 🧑‍💻 **Projects**
-
-### **Dynamic Shop Platform**
-- Developed a dynamic shopping cart and checkout system integrated with inventory management.
-- Built responsive product listing and menu pages using modern CSS frameworks.
-- Ensured seamless user interactions without full-page reloads.
-
-### **Inventory System with Machine Learning Supervision**
-- Created an inventory tracking system with a Python-based ML pipeline for demand forecasting.
-- Integrated real-time alert dashboards to support decision-making.
-
-### **Media Listing Platform**
-- Personal tracking app for books, anime, and movies with filtering, categorization, and status tracking.
-- Focused on responsive layouts and optimal user experience.
-
-For more projects, check out my [GitHub](https://github.com/aandrewjuan1).
-
 ## 🎓 **Education**
 **Bachelor of Science in Computer Science**  
 Emilio Aguinaldo College – Cavite (Expected Graduation: 2026)
