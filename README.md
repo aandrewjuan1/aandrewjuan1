@@ -32,14 +32,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aandrewjuan1&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&layout=compact" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aandrewjuan1&layout=compact&theme=radical&hide_title=true&langs_count=8" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aandrewjuan1&layout=compact&theme=radical&hide_title=true&langs_count=8" alt="Top Languages"/>
 
 ---
 
