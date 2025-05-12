@@ -4,11 +4,11 @@ I'm a Computer Science undergraduate passionate about web development, clean cod
 
 ## 🌱 **Languages**
 
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFB82A?style=flat&logo=javascript&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4F7BFF?style=flat&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFB82A?style=flat&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4F7BFF?style=flat&logo=mysql&logoColor=white)
 
 ## 🛠️ **Tech Stack & Tools**
 
@@ -34,9 +34,10 @@ I'm a Computer Science undergraduate passionate about web development, clean cod
 ## 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aandrewjuan1&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aandrewjuan1&layout=compact&theme=radical)
 
 ## 🎓 **Education**
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science**
 Emilio Aguinaldo College – Cavite (Expected Graduation: 2026)
 
 ## 📬 **Contact**
