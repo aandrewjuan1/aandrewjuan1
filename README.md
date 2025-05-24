@@ -47,6 +47,6 @@
 ## 📫 Let's Connect
 
 💌 Email: [aandrewjuan2@gmail.com](mailto:aandrewjuan2@gmail.com)  
-🌐 Portfolio: [Portfolio](https://aandrewjuan1.github.io/portfolio)
+🌐 Portfolio: [Andrew Juan](https://aandrewjuan1.github.io/portfolio)
 
 ---
