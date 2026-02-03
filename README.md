@@ -34,8 +34,6 @@ Most of my experience revolves around **Laravel-based backends**, modern fronten
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aandrewjuan1&layout=compact&theme=radical&hide_title=true&langs_count=8" alt="Top Languages"/>
-
 ---
 
 ## 🎓 Education
